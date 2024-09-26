@@ -43,20 +43,23 @@ Welcome to the **Online Collaborative Board**, a Django-based web application wh
    python manage.py runserver
    ```
 
-6. Access the application: Open your browser and go to http://127.0.0.1:8000/.
+6. **Access the application**: Open your browser and go to http://127.0.0.1:8000/.
 
 ## Usage
-View the board: Anyone can access the board and see the current artwork.
-Login to interact: To start changing colors and contributing, you’ll need to sign up or log in.
-Start painting: After logging in, click on any square to change its color and start creating!
+
+- View the board: Anyone can access the board and see the current artwork.
+- Login to interact: To start changing colors and contributing, you’ll need to sign up or log in.
+- Start painting: After logging in, click on any square to change its color and start creating!
 
 ## Future Features (Planned)
+
 User Roles: Different access levels for moderation or advanced users.
 Color Palette: Let users choose from a wider range of colors.
 Undo Feature: Allow users to revert changes made to the grid.
 Real-Time Updates: Instantly update the board for all users as changes are made.
 
 ## Contributing
+
 Feel free to fork this repository and submit pull requests. Contributions are welcome!
 
 1. Fork the repository.
