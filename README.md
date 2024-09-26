@@ -14,6 +14,6 @@ Welcome to the **Online Collaborative Board**, a Django-based web application wh
 1. **Clone the repository**:
 
    ```bash
-   git clone https://
-   cd 
+   git clone https://github.com/fthenri/pinha_project.git
+   cd pinha
    ```
