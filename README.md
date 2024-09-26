@@ -1,6 +1,6 @@
-# Online Collaborative Board
+# Pinha - Collaborative Board Painting
 
-Welcome to the **Online Collaborative Board**, a Django-based web application where users can login and collaboratively change the color of small squares on a grid, creating artwork together in real-time!
+Welcome to the **Pinha**, a Django-based web application where users can login and collaboratively change the color of small squares on a grid, creating artwork together in real-time!
 
 ## Features
 
